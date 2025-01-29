@@ -23,8 +23,8 @@
 
 ## 📥 快速安装
 - 克隆仓库：
-  - `git clone https://github.com/Yuziki1227/ai-atc.git`
-  - `cd ai-atc`
+  - `git clone https://github.com/Yuziki1227/DeepATC.git`
+  - `cd DeepATC`
 - 安装依赖：
   - `pip install -r requirements.txt`
 - 配置 DeepSeek API 密钥：
